@@ -1,7 +1,2 @@
 /postgres-keycloak-data
 2024__yandex-architecture-sso.code-workspace
-/.venv
-*.env
-/.vscode
-/**/__pycache__/
-/.DS_Store
