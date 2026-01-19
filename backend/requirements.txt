@@ -1,5 +1,0 @@
-fastapi[standard]
-requests
-PyJWT
-cryptography
-python-decouple
